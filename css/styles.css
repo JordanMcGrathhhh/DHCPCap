@@ -1,0 +1,12 @@
+body {
+    padding: 1em;
+}
+
+table {
+    margin: 1em;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 2.5px;
+}
